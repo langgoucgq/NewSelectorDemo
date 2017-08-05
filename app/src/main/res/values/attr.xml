@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NewSelecterView">
+        <attr name="text_padding_left" format="dimension"/>
+        <attr name="text_padding_right" format="dimension"/>
+        <attr name="text_padding_top" format="dimension"/>
+        <attr name="text_padding_bottom" format="dimension"/>
+
+
+        <attr name="text_color" format="color"/>
+        <attr name="text_color_select" format="color"/>
+
+        <attr name="text_size" format="dimension"/>
+
+
+
+    </declare-styleable>
+
+
+</resources>
